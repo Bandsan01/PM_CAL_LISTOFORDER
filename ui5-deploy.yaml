@@ -21,6 +21,6 @@ builder:
           name: ZUI_PM_CALODRLT
           description: Order list for calibration
           package: ZPM_FIORI
-          transport: DGWK900673
+          transport: DGWK900753
         exclude:
           - /test/

@@ -100,10 +100,7 @@
         "settings": {
           "defaultBindingMode": "TwoWay",
           "defaultCountMode": "Inline",
-          "refreshAfterChange": false,
-          "metadataUrlParams": {
-            "sap-value-list": "none"
-          }
+          "refreshAfterChange": false
         }
       },
       "@i18n": {
